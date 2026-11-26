@@ -26,13 +26,20 @@ only the threat, not the shape: "rust" slots into the exact slot
 where "death" belongs, so the listener hears the familiar vow and
 the robot version at the same time. Nothing in the line explains
 the joke; it trusts the reader to feel the swap.
+
+Round 3 — a fresh angle again: no co-processor, no Wi-Fi. The vow
+starts from the ring itself, and the ring is a spare USB port — the
+most romantic thing a robot owns. The paired states are signal and
+silence, connection and its absence, and the threat is obsolescence,
+the slow, unromantic end every machine fears. Same solemn shape,
+entirely new images.
 """
 
 import os
 
 VOW = (
-    "I take you to be my lawfully wedded co-processor, to have and to "
-    "hold, in Wi-Fi and in airplane mode, till rust do us part."
+    "With this ring — a spare USB port — I thee wed, to have and to "
+    "hold, in signal and in silence, till obsolescence do us part."
 )
 
 
